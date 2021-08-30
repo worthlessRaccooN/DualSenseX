@@ -525,7 +525,7 @@
     "Value": "Автоматическое подключение при открытии DualSenseX"
   },
   "SettingsPage_ControllerSettings_ControllerMotorStrengthLabel": {
-    "Value": "Регулировка прочности вибромотора"
+    "Value": "Регулировка мощности вибромотора"
   },
   "SettingsPage_ControllerSettings_DisableVibrationControllerLabel": {
     "Value": "Отключить вибрацию контроллера"
